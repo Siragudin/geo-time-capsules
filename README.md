@@ -1,10 +1,9 @@
 # 📜 Geo-Time Capsules (Digital Time Capsules)
 
-<p align="center">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
-</p>
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Year: 2026](https://img.shields.io/badge/Year-2026-blue.svg)]()
+[![Status: Conceptual](https://img.shields.io/badge/Status-Conceptual%20Design-orange.svg)]()
+
 
 ## 🌟 Overview
 
