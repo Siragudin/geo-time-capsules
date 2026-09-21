@@ -126,7 +126,7 @@ For museums, universities, archives:
 
 ## ⚖️ License
 
-Published under **CC BY-NC-SA 4.0**.  
+Published under **CC BY-NC-ND 4.0**.  
 Non-commercial use only.  
 Commercial integration requires explicit permission.
 
